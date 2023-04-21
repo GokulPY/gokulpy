@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **HTML , CSS , JS**
+- 💬 Ask me about **HTML , CSS , JS , REACT JS**
 
 - 📫 How to reach me **gokulsparx05@gmail.com**
 
