@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Adobe Photoshop CS6**
 
-- 💬 Ask me about **HTML , CSS , JS , REACT JS**
+- 💬 Ask me about **HTML , CSS , JS , REACT JS , NODE JS , MONGO DB**
 
 - 📫 How to reach me **gokulsparx05@gmail.com**
 
